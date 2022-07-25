@@ -5,5 +5,9 @@
     "source.organizeImports": true
   },
   "typescript.preferences.importModuleSpecifier": "non-relative",
-  "jest.autoRun": "off"
+  "jest.autoRun": "off",
+
+  "[prisma]": {
+    "editor.formatOnSave": true,
+  }
 }
